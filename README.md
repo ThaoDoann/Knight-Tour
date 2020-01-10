@@ -1,3 +1,3 @@
 # Knight-Tour
 
-![Screenshot](Media3.PNG)
+![Screenshot](Media3.gif)
